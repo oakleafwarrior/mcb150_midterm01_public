@@ -1,0 +1,1015 @@
+MCB 150 FLASHCARDS
+==================
+Lectures 1-9 (Lecture 10 excluded)
+Format: Q: [Term]  /  A: [Definition]
+==================================================
+
+
+========================================
+LECTURE 1: Overview of Immunology
+========================================
+
+Q: Innate Immunity
+A: The evolutionarily ancient arm of the immune system present in all animals and plants that provides rapid responses (seconds to hours) using pattern recognition receptors with pre-determined specificities shaped by evolution.
+
+Q: Adaptive Immunity
+A: The slower (days) but highly specific arm of immunity found in higher vertebrates that uses antigen receptors capable of recognizing virtually anything and produces immunological memory.
+
+Q: Immune Effector Functions
+A: The actions the immune system carries out to eliminate pathogens after recognition, such as phagocytosis, killing infected cells, or producing antibodies.
+
+Q: Self vs. Non-self Discrimination
+A: The immune system's requirement to distinguish host tissue from foreign pathogens, preventing damage to self; failure leads to autoimmunity.
+
+Q: Immune Memory
+A: The capacity of the adaptive immune system to mount a faster and stronger response upon re-exposure to a previously encountered antigen; the mechanistic basis of vaccine efficacy.
+
+Q: Anatomic Barriers
+A: The first line of defense including skin, oral mucosa, respiratory epithelium, and intestinal lining that physically block pathogen entry.
+
+Q: Defensins
+A: Antimicrobial peptides secreted at epithelial surfaces that directly kill microbes as part of the innate chemical barrier.
+
+Q: Pattern Recognition Receptors (PRRs)
+A: Receptors expressed by innate immune cells that recognize conserved molecular features common to many microbes called PAMPs; specificities are predetermined by evolution and a single cell expresses multiple types.
+
+Q: PAMPs (Pathogen Associated Molecular Patterns)
+A: Conserved structural features found on pathogens but not host cells that are recognized by PRRs of the innate immune system.
+
+Q: Toll-like Receptors (TLRs)
+A: A major class of PRRs expressed on macrophages and other innate immune cells that recognize specific microbial components and trigger innate immune activation.
+
+Q: Hematopoietic Stem Cell (HSC)
+A: The multipotent precursor cell residing in the bone marrow from which all blood and immune cells are derived.
+
+Q: Myeloid Progenitor Cell
+A: The bone marrow progenitor that gives rise to most innate immune cells including monocytes, neutrophils, eosinophils, basophils, megakaryocytes, and erythrocytes.
+
+Q: Common Lymphoid Progenitor (CLP)
+A: The bone marrow progenitor that gives rise to lymphoid-lineage cells: T cells, B cells, and NK cells.
+
+Q: Macrophage
+A: An innate myeloid immune cell that performs phagocytosis and activation of bactericidal mechanisms, antigen presentation, and cytokine production; derived from monocytes.
+
+Q: Dendritic Cell (DC)
+A: An innate myeloid cell that takes up antigen at peripheral tissue sites, presents it to T cells in lymph nodes, and produces cytokines; the critical bridge between innate and adaptive immunity.
+
+Q: Neutrophil
+A: The most abundant innate myeloid immune cell that performs phagocytosis and activates bactericidal mechanisms; a major effector of inflammation.
+
+Q: Eosinophil
+A: An innate myeloid cell specialized for killing antibody-coated parasites; also participates in Type 2 mucosal/barrier immune responses.
+
+Q: Basophil
+A: An innate myeloid cell that promotes allergic responses and augments anti-parasitic immunity.
+
+Q: Mast Cell
+A: An innate myeloid cell in tissues that releases granules containing histamine and other active agents; important in allergy and anti-parasitic responses.
+
+Q: Monocyte
+A: A circulating myeloid precursor that can differentiate into dendritic cells or macrophages upon entering tissues.
+
+Q: NK Cell (Natural Killer Cell)
+A: A cytotoxic innate lymphocyte derived from the CLP that kills virally infected and metabolically stressed cells without requiring prior antigen-specific activation.
+
+Q: Phagocytosis
+A: The process by which phagocytes (macrophages, neutrophils) engulf and destroy pathogens; activation via PRRs greatly enhances subsequent microbial killing.
+
+Q: Cytokines
+A: Small secreted signaling proteins produced by immune cells that act on nearby or distant cells to coordinate immune responses.
+
+Q: Chemokines
+A: A subset of small signaling proteins that direct the migration (chemotaxis) of immune cells to sites of infection; key drivers of inflammation and immune cell recruitment.
+
+Q: Inflammation
+A: The recruitment of immune cells and increased blood flow into infected tissue driven by cytokine and chemokine signals; manifests as redness, heat, swelling, and pain.
+
+Q: B Cell (B Lymphocyte)
+A: An adaptive immune lymphocyte that develops in the bone marrow, expresses the BCR, and upon activation differentiates into plasma cells that secrete antibodies.
+
+Q: T Cell (T Lymphocyte)
+A: An adaptive immune lymphocyte that develops in the thymus, expresses the TCR, and upon activation performs effector functions such as killing infected cells (CD8) or helping other immune cells (CD4).
+
+Q: Plasma Cell
+A: A terminally differentiated B cell that secretes large quantities of antibodies.
+
+Q: B Cell Receptor (BCR)
+A: The membrane-bound antigen receptor on B cells composed of immunoglobulin heavy and light chains with variable and constant regions; the secreted form is an antibody.
+
+Q: T Cell Receptor (TCR)
+A: The antigen receptor on T cells composed of alpha and beta chains with variable and constant regions; recognizes peptide antigens presented by MHC molecules.
+
+Q: Antigen
+A: Any molecule that induces an immune response or serves as a ligand for BCR or TCR; can be derived from pathogens, host proteins, food, or other sources.
+
+Q: Antibody (Immunoglobulin)
+A: The secreted form of the BCR produced by plasma cells; has a variable region for antigen binding and a constant region that mediates effector functions.
+
+Q: Variable Region
+A: The portion of the BCR/TCR or antibody that contains the antigen-binding site; unique to each lymphocyte clone due to V(D)J recombination.
+
+Q: Constant Region
+A: The portion of the BCR/antibody that mediates effector functions (e.g., complement activation, Fc receptor binding); determines antibody isotype.
+
+Q: Antibody Isotypes
+A: Distinct classes of antibodies (IgG, IgM, IgA, IgE) defined by their constant region; different isotypes engage distinct effector mechanisms such as neutralization, opsonization, or complement activation.
+
+Q: Neutralization
+A: An antibody effector mechanism in which antibody binding to a pathogen or toxin blocks its ability to infect cells or exert biological activity.
+
+Q: Opsonization
+A: An antibody effector mechanism in which antibody coating of a pathogen enhances its recognition and phagocytosis by macrophages and neutrophils.
+
+Q: V(D)J Recombination
+A: The somatic DNA rearrangement process during lymphocyte development that assembles antigen receptor genes from V, D, and J gene segments, generating millions of unique BCR and TCR specificities.
+
+Q: Clonal Expression
+A: The principle that each B or T cell produces a single type of antigen receptor with one unique specificity (1 cell = 1 specificity).
+
+Q: Clonal Selection
+A: The process by which binding of antigen to a lymphocyte's receptor triggers that cell to proliferate massively, generating many daughter cells with identical receptor specificity.
+
+Q: Clonal Expansion
+A: The proliferation of antigen-specific lymphocytes following activation; produces large numbers of pathogen-specific effector cells.
+
+Q: Clonal Deletion
+A: The elimination of immature self-reactive lymphocytes during development to prevent autoimmunity.
+
+Q: Naive T Cell
+A: A mature T cell that has left the thymus but has not yet encountered its cognate antigen; circulates through blood and lymphoid organs.
+
+Q: CD4 T Cell (Helper T Cell)
+A: A T cell subset that expresses CD4 and helps other immune cells; provides the second signal required to activate B cells and can activate infected macrophages to enhance killing of intracellular pathogens.
+
+Q: CD8 T Cell (Cytotoxic T Cell)
+A: A T cell subset that expresses CD8 and directly kills virus-infected host cells that display viral peptides on MHC class I molecules.
+
+Q: Antigen Presentation
+A: The process by which peptide fragments of antigens are bound by MHC molecules and displayed on the cell surface for recognition by T cells; carried out by dendritic cells, macrophages, and B cells.
+
+Q: Thymus
+A: The primary lymphoid organ where T cells develop, undergo V(D)J recombination of the TCR, and are selected.
+
+Q: Secondary Lymphoid Organs
+A: Organs including the spleen, lymph nodes, and Peyer's patches where mature naive lymphocytes encounter antigens presented by dendritic cells and become activated.
+
+Q: Lymph Node
+A: A secondary lymphoid organ with distinct B cell and T cell zones that serves as the primary site for lymphocyte activation; dendritic cells loaded with antigen migrate here from peripheral tissues.
+
+Q: Spleen
+A: A secondary lymphoid organ that filters blood and is a major site for immune responses against blood-borne pathogens.
+
+Q: Peyer's Patches
+A: Secondary lymphoid organs in the ileum of the small intestine that monitor intestinal antigens.
+
+Q: Co-stimulation
+A: A second signal required in addition to TCR-antigen binding for full T cell activation; provided by dendritic cells and prevents responses to self antigens.
+
+Q: Autoimmunity
+A: A condition in which the immune system inappropriately attacks self tissues due to failure of self vs. non-self regulation.
+
+Q: Primary vs. Secondary Immune Response
+A: The primary response to a first antigen exposure has a lag phase and is lower in magnitude; the secondary response after re-exposure is faster and far greater in magnitude due to immune memory cells.
+
+Q: Vaccine
+A: A preparation that induces adaptive immune memory to a pathogen without causing disease, allowing faster and stronger responses upon future infection.
+
+
+========================================
+LECTURE 2: Innate Immunity: Barriers and Complement
+========================================
+
+Q: Epithelial Barrier
+A: A physical and chemical barrier composed of epithelial cells joined by tight junctions that prevents pathogen entry at body surfaces (skin, gut, lungs, eyes/nose/mouth).
+
+Q: Normal Microbiota
+A: Commensal microorganisms that colonize epithelial surfaces and block pathogen colonization by occupying available niches.
+
+Q: Lysozyme
+A: An enzyme secreted at mucosal surfaces (tears, saliva, respiratory tract) that cleaves peptidoglycan in bacterial cell walls; especially effective against Gram-positive bacteria.
+
+Q: Peptidoglycan
+A: A structural polymer in bacterial cell walls; thick and exposed in Gram-positive bacteria, thinner beneath the outer membrane in Gram-negative bacteria.
+
+Q: Gram-positive Bacteria
+A: Bacteria with a thick exposed peptidoglycan layer and no outer membrane; surface components include teichoic acid and lipoteichoic acid.
+
+Q: Gram-negative Bacteria
+A: Bacteria with a thin peptidoglycan layer and an outer membrane containing lipopolysaccharide (LPS); more resistant to lysozyme.
+
+Q: LPS (Lipopolysaccharide)
+A: A major outer membrane component of Gram-negative bacteria; a potent immunostimulatory molecule recognized by TLR4; responsible for septic shock.
+
+Q: Defensins (alpha and beta)
+A: Amphipathic antimicrobial peptides secreted at mucosal surfaces and by phagocytes; activated by proteolytic cleavage, they insert into microbial membranes and form pores that kill microbes.
+
+Q: Cathelicidins
+A: Amphipathic antimicrobial peptides produced at skin, gut, and lung surfaces; activated by proteolytic cleavage.
+
+Q: RegIII Lectins
+A: C-type lectins secreted at mucosal surfaces (especially gut) that bind bacterial carbohydrates and assemble into filaments that disrupt bacterial membranes.
+
+Q: Complement System
+A: A collection of soluble proteins in blood and body fluids that, upon microbial detection, undergo a protease cascade to opsonize pathogens, promote inflammation, and directly kill microbes.
+
+Q: Thioester Bond
+A: A highly reactive chemical bond exposed in C3b and C4b upon cleavage; enables covalent attachment to microbial surfaces; rapidly inactivated by hydrolysis if not bound.
+
+Q: C3 Convertase
+A: A surface-bound enzymatic complex (assembled differently in each pathway) that cleaves C3 into C3a and C3b; the central amplification step common to all three complement pathways.
+
+Q: C5 Convertase
+A: Formed when an additional C3b binds to a C3 convertase; cleaves C5 into C5a (inflammatory mediator) and C5b (initiator of MAC assembly).
+
+Q: Lectin Pathway
+A: A complement activation pathway initiated when mannose-binding lectin (MBL) or ficolins bind carbohydrates on microbial surfaces, activating associated MASP proteases to assemble C4b2a.
+
+Q: Mannose-binding Lectin (MBL)
+A: A pattern-recognition molecule of the lectin pathway; binds mannose and fucose residues on microbial glycoproteins; associates with MASP-1, -2, -3. Host glycoproteins terminate in sialic acid, not mannose, so MBL is specific for microbes.
+
+Q: Ficolins
+A: Pattern-recognition molecules of the lectin pathway structurally similar to MBL but with fibrinogen domains; bind acetylated sugars on microbial surfaces; associate with MASPs.
+
+Q: MASP-2
+A: The key protease activated in the lectin pathway; upon MBL/ficolin binding, cleaves C4 and C2 to generate the C3 convertase C4b2a.
+
+Q: C4b2a
+A: The C3 convertase of the lectin and classical pathways; composed of C4b (surface-bound) and C2a (protease); cleaves up to 1000 C3 molecules per complex.
+
+Q: Classical Pathway
+A: A complement activation pathway initiated by antibody (especially IgM) bound to a microbial surface; C1q binds antibody Fc regions, activating C1r and C1s, which cleave C4 and C2 to form C4b2a.
+
+Q: C1q
+A: The pattern-recognition component of the classical pathway; binds the Fc portions of antibodies on pathogen surfaces; triggers autoactivation of C1r.
+
+Q: Alternative Pathway
+A: The most ancient complement pathway; initiated by spontaneous low-level hydrolysis of C3 to C3(H2O); C3b on microbial surfaces forms C3bBb, which amplifies all complement pathways.
+
+Q: Spontaneous Hydrolysis (C3 tickover)
+A: The spontaneous, low-level hydrolysis of C3 to C3(H2O) that occurs constitutively; generates a steady supply of C3b independent of pathogen recognition.
+
+Q: Factor B
+A: A complement protein of the alternative pathway; binds C3b on microbial surfaces and is cleaved by Factor D into Ba and Bb; Bb forms the alternative pathway C3 convertase C3bBb.
+
+Q: Factor D
+A: A plasma protease of the alternative pathway; cleaves Factor B when it is bound to C3b, generating the active C3 convertase C3bBb.
+
+Q: C3bBb
+A: The C3 convertase of the alternative pathway; self-amplifying because C3b it generates can recruit more Factor B and D to make more C3bBb.
+
+Q: Properdin (Factor P)
+A: A stabilizing protein that binds and stabilizes the alternative pathway C3 convertase C3bBb on microbial surfaces, prolonging its activity.
+
+Q: C3a
+A: A small complement cleavage fragment released from C3; binds GPCR on leukocytes to promote chemotaxis and inflammation; increases vascular permeability.
+
+Q: C5a
+A: The most potent complement-derived inflammatory mediator; released from C5 cleavage; binds GPCR on neutrophils and macrophages to drive chemotaxis, activation, and vascular permeability.
+
+Q: Membrane Attack Complex (MAC)
+A: A pore-forming complex assembled from C5b, C6, C7, C8, and 10-16 molecules of C9; inserts into pathogen membranes to cause osmotic lysis.
+
+Q: C9
+A: The pore-forming component of the MAC; 10-16 C9 molecules polymerize around C5b67-C8 to create a transmembrane channel in the pathogen membrane.
+
+Q: CR1 (CD35)
+A: Complement receptor on erythrocytes, macrophages, monocytes, neutrophils, B cells, and FDCs; promotes C3b/C4b decay, stimulates phagocytosis, and mediates erythrocyte transport of immune complexes.
+
+Q: Phagolysosome
+A: The organelle formed by fusion of a phagosome and lysosome; the site of microbial killing via low pH (3.5-4), reactive oxygen species, toxic nitrogen, antimicrobial peptides, and degradative enzymes.
+
+Q: NADPH Oxidase
+A: An enzyme complex in the phagolysosome membrane that generates reactive oxygen species (superoxide) to kill engulfed microbes.
+
+Q: DAF (Decay Accelerating Factor)
+A: A host cell surface protein that causes dissociation of C3 convertases (displaces Bb from C3b or C2a from C4b), preventing complement attack on host cells.
+
+Q: Factor H
+A: A soluble plasma protein that binds C3b and blocks its association with Factor Bb; has binding preference for host sialic acids; cofactor for Factor I.
+
+Q: C4BP (C4 Binding Protein)
+A: A soluble plasma protein that binds C4b and blocks its association with C2a, preventing C3 convertase formation on host cells; cofactor for Factor I.
+
+Q: C3 Deficiency
+A: Results in recurrent, severe bacterial infections due to failure of opsonization, phagocytosis, and inflammation.
+
+Q: Terminal Complement (MAC) Deficiency
+A: Increases susceptibility specifically to Neisseria meningitidis, a Gram-negative bacterium particularly vulnerable to membrane attack.
+
+
+========================================
+LECTURE 3: Innate Immunity: Pathogen Recognition
+========================================
+
+Q: PAMP (Pathogen-Associated Molecular Pattern)
+A: Evolutionarily conserved, essential structural components of microbes that are difficult to mutate away, making them reliable targets for innate immune detection.
+
+Q: Germline-encoded Receptors
+A: Innate immune receptors whose specificities are genetically predetermined and shaped by natural selection; expressed non-clonally on cells like macrophages and DCs.
+
+Q: Adjuvant Effect
+A: The observation that dead bacteria co-injected with antigen dramatically enhance T and B cell responses; explained by PAMPs providing the innate immune signal needed to activate adaptive immunity.
+
+Q: Pattern Recognition Theory (Janeway, 1989)
+A: The theoretical framework proposing that innate immune effector cells bear germline-encoded PRRs that detect PAMPs absent from the host, enabling self/non-self discrimination.
+
+Q: Flagellin
+A: Conserved structural protein subunit of bacterial flagella; detected by TLR5 at the cell surface and by the NAIP5/NLRC4 inflammasome in the cytosol.
+
+Q: dsRNA (double-stranded RNA)
+A: Viral replication intermediate; detected by TLR3 in endosomes and by MDA-5 in the cytosol.
+
+Q: ssRNA (single-stranded RNA)
+A: Viral genomic or replication RNA; detected by TLR7 and TLR8 in endosomes and by RIG-I in the cytosol.
+
+Q: CpG DNA (unmethylated)
+A: Bacterial and viral DNA containing unmethylated CpG dinucleotide motifs absent from host DNA; recognized by TLR9 in endosomes.
+
+Q: 5' Triphosphate RNA
+A: Uncapped viral RNA produced during cytoplasmic replication; the specific ligand for RIG-I.
+
+Q: TLR (Toll-like Receptor)
+A: Family of membrane-bound PRRs with extracellular leucine-rich repeats (LRR) for ligand binding and an intracellular TIR domain for signaling; mammalian homolog of Drosophila Toll.
+
+Q: TLR4
+A: Cell-surface TLR that recognizes LPS from Gram-negative bacteria; signals via both MyD88 and TRIF adaptors; the first TLR whose ligand was identified.
+
+Q: TLR2
+A: Cell-surface TLR that forms heterodimers with TLR1 or TLR6 to detect bacterial lipoproteins, lipoteichoic acids, and fungal beta-glucans.
+
+Q: TLR3
+A: Endosomal TLR that recognizes double-stranded RNA; signals exclusively via TRIF to activate IRF3 and type I IFN production.
+
+Q: TLR5
+A: Cell-surface TLR that recognizes flagellin from bacterial flagella.
+
+Q: TLR7 / TLR8
+A: Endosomal TLRs that recognize single-stranded viral RNA.
+
+Q: TLR9
+A: Endosomal TLR that recognizes DNA containing unmethylated CpG motifs from bacteria and DNA viruses.
+
+Q: LRR Domain (Leucine-Rich Repeat)
+A: Extracellular structural domain of all TLRs responsible for PAMP ligand recognition.
+
+Q: TIR Domain
+A: Conserved intracellular signaling domain shared by Toll, TLRs, and IL-1R; required for adaptor protein recruitment and downstream signaling.
+
+Q: Cell-surface TLRs
+A: TLR subset (TLR1/2/4/5/6) on the plasma membrane that detects extracellular bacterial surface components such as LPS, lipoproteins, and flagellin.
+
+Q: Endosomal TLRs
+A: TLR subset (TLR3/7/8/9) on endosomal membranes that detects nucleic acids released from phagocytosed microbes.
+
+Q: MyD88
+A: Adaptor protein used by all TLRs except TLR3 to initiate signal transduction; recruits and activates the IKK complex, leading to NF-kB activation.
+
+Q: TRIF
+A: Second adaptor protein used by TLR3 (exclusively) and TLR4 (in addition to MyD88); activates TBK1 to phosphorylate IRF3 and induce type I interferon gene expression.
+
+Q: IRAK
+A: Kinase recruited downstream of MyD88 in TLR signaling; part of the signaling cascade leading to TRAF6 and IKK activation.
+
+Q: TRAF6
+A: Signaling intermediate downstream of IRAK in the MyD88 pathway; leads to IKK complex activation.
+
+Q: IKK Complex (IKKalpha/IKKbeta/IKKgamma)
+A: Kinase complex activated downstream of MyD88/TRIF; phosphorylates IkB, triggering its ubiquitination and proteasomal degradation to release NF-kB.
+
+Q: IkB
+A: Inhibitory protein that sequesters NF-kB in the cytoplasm in an inactive state; phosphorylated by IKK, ubiquitinated, and degraded to allow NF-kB nuclear translocation.
+
+Q: NF-kB
+A: Master transcription factor (p50/p65/c-Rel complex) activated downstream of most PRRs; drives expression of pro-inflammatory cytokine genes (TNF, IL-6, IL-12, chemokines).
+
+Q: TBK1
+A: Kinase activated downstream of TRIF (and MAVS/STING); phosphorylates and activates IRF3.
+
+Q: IRF3 (Interferon Regulatory Factor 3)
+A: Transcription factor activated by phosphorylation downstream of TRIF and TBK1; drives type I interferon gene expression.
+
+Q: Type I Interferons (IFN-alpha, IFN-beta)
+A: Cytokines produced downstream of TRIF/MAVS/STING-IRF3 signaling; antiviral effector molecules induced by viral nucleic acid sensing.
+
+Q: CLRs (C-type Lectin Receptors)
+A: Transmembrane PRR family that recognizes carbohydrate structures on microbial surfaces; includes Dectin-1, DC-SIGN, and mannose receptor.
+
+Q: NLRs (NBD-LRR Receptors)
+A: Family of cytosolic PRRs with a nucleotide-binding domain (NBD) and leucine-rich repeats (LRR); detect intracellular PAMPs or signs of pathogen activity.
+
+Q: Nod1
+A: Cytosolic NLR that detects iE-DAP (peptidoglycan fragment from Gram-negative bacteria); signals via RIP2 to activate NF-kB.
+
+Q: Nod2
+A: Cytosolic NLR that detects muramyl dipeptide (MDP) from both Gram-positive and Gram-negative bacteria; signals via RIP2 to activate NF-kB; mutations associated with Crohn's disease.
+
+Q: RIP2
+A: Adaptor kinase used by Nod1 and Nod2 (analogous to MyD88 for TLRs); recruits polyubiquitin and TAK1 to activate IKK and NF-kB.
+
+Q: Inflammasome
+A: Multiprotein cytosolic complex formed by oligomerization of NLR proteins upon PAMP/danger sensing; recruits and activates caspase-1.
+
+Q: Caspase-1
+A: Protease recruited and activated by inflammasomes; cleaves pro-IL-1beta, pro-IL-18, and gasdermin D to trigger inflammation and pyroptosis.
+
+Q: Gasdermin D
+A: Pore-forming protein cleaved and activated by caspase-1; inserts into the plasma membrane to form pores, causing pyroptosis and enabling IL-1beta and IL-18 secretion.
+
+Q: Pyroptosis
+A: Rapid, inflammatory, caspase-1-dependent form of cell death triggered by inflammasome activation; characterized by cell swelling and membrane rupture (distinct from apoptosis).
+
+Q: IL-1beta
+A: Pro-inflammatory cytokine produced as an inactive precursor; expression induced by NF-kB (TLR priming) and mature form released after caspase-1 cleavage downstream of inflammasome activation.
+
+Q: TLR Priming Step
+A: Required first signal (via TLR/NF-kB) that upregulates expression of pro-IL-1beta and pro-IL-18 before a second inflammasome signal can produce mature cytokine.
+
+Q: RLRs (RIG-I-like Receptors)
+A: Family of cytosolic helicase PRRs that detect viral RNA in the cytoplasm and signal via MAVS to activate NF-kB and IRF3.
+
+Q: RIG-I
+A: Cytosolic RLR that recognizes 5' triphosphate RNA produced during viral replication; undergoes conformational change and aggregates with MAVS on mitochondria.
+
+Q: MDA-5
+A: Cytosolic RLR that recognizes long double-stranded RNA from viral replication; signals via MAVS similarly to RIG-I.
+
+Q: MAVS (Mitochondrial Antiviral Signaling Protein)
+A: Adaptor protein on the outer mitochondrial membrane; aggregates upon RIG-I/MDA-5 activation and recruits TRAFs to activate IKK/TBK1, leading to NF-kB and IRF3 activation and IFN-beta expression.
+
+Q: cGAS (cyclic GMP-AMP Synthase)
+A: Cytosolic DNA sensor enzyme activated upon binding double-stranded DNA (from viruses or bacteria); catalyzes production of cGAMP from ATP and GTP.
+
+Q: cGAMP (cyclic GMP-AMP)
+A: Cyclic dinucleotide second messenger produced by cGAS; binds and activates STING on the ER membrane.
+
+Q: STING (Stimulator of Interferon Genes)
+A: ER-resident adaptor protein activated by cGAMP or bacterial cyclic dinucleotides; activates TBK1 to phosphorylate IRF3 and drive type I interferon gene expression.
+
+Q: Toll (Drosophila)
+A: Receptor originally identified for dorso-ventral patterning in flies; also essential for antifungal defense via the Relish/Dorsal NF-kB pathway; evolutionary precursor to mammalian TLRs.
+
+Q: Adjuvant
+A: Substance (classically dead bacteria) added to vaccines to enhance adaptive immune responses by providing PAMPs that activate innate PRRs and trigger DC maturation.
+
+
+========================================
+LECTURE 4: Consequences of Innate Immune Activation
+========================================
+
+Q: Chemotaxis
+A: Directed cellular movement in response to chemical signals (C5a, fMet, chemokines); allows immune cells to migrate toward sites of infection.
+
+Q: Formylated Methionine (fMet)
+A: A bacterial-specific amino acid used to initiate translation in prokaryotes; detected by host GPCRs on phagocytes to signal the presence of bacteria and promote chemotaxis and killing.
+
+Q: Chemokine Receptors (CCR/CXCR)
+A: G-protein coupled receptors (GPCRs) expressed on immune cells that bind chemokines; activation drives cytoskeletal rearrangement and directed cell migration.
+
+Q: G-protein Coupled Receptor (GPCR)
+A: Seven-transmembrane receptor that signals through heterotrimeric G-proteins; chemokine, C5a, and fMet receptors are all GPCRs that activate Rac/Rho/Cdc42 to drive chemotaxis and the respiratory burst.
+
+Q: Rac/Rho/Cdc42
+A: Small GTPases activated downstream of GPCRs; Rac/Rho controls actin cytoskeleton rearrangement for chemotaxis, and Rac drives NADPH oxidase assembly for the respiratory burst.
+
+Q: Endothelial Cell Activation
+A: Cytokine- and lipid mediator-induced changes in vascular endothelium including vasodilation, increased permeability, and upregulation of adhesion molecules that allow leukocytes to extravasate into infected tissue.
+
+Q: Integrins (e.g., LFA-1)
+A: Heterodimeric adhesion molecules (alpha/beta subunits) on leukocytes that bind ICAM-1 on endothelium; mediate tight adhesion required for diapedesis after selectin-mediated rolling.
+
+Q: ICAM-1
+A: Immunoglobulin superfamily cell adhesion molecule expressed on activated endothelium; serves as the ligand for integrin LFA-1 to enable tight leukocyte binding and extravasation.
+
+Q: Phagosome
+A: Membrane-bound vesicle formed when a phagocyte engulfs a microbe; fuses with lysosomes to form a phagolysosome.
+
+Q: Respiratory Burst
+A: Rapid production of reactive oxygen species (superoxide, H2O2, OCl-) by NADPH oxidase in phagocytes upon microbial stimulation; highly toxic to ingested microbes.
+
+Q: Superoxide Dismutase (SOD)
+A: Enzyme within the phagolysosome that converts superoxide (O2-) to H2O2, which is highly toxic to bacteria.
+
+Q: Primary and Secondary Granules
+A: Preformed antimicrobial protein-containing vesicles in neutrophils; fuse with phagosomes to deliver proteases and antimicrobial peptides.
+
+Q: Interleukins (ILs)
+A: A major class of cytokines (IL-1 through IL-41) produced by and acting on leukocytes; organized into families based on shared receptor subunits.
+
+Q: Interferons (IFNs)
+A: Cytokines divided into Type I (IFN-alpha, IFN-beta), Type II (IFN-gamma), and Type III; critical antiviral and immunostimulatory signaling molecules.
+
+Q: TNF-alpha (Tumor Necrosis Factor)
+A: Pro-inflammatory cytokine; activates vascular endothelium, increases vascular permeability, induces fever; systemic TNF-alpha causes septic shock and multi-organ failure.
+
+Q: IL-6
+A: Cytokine produced by macrophages; activates lymphocytes, increases antibody production, induces fever, and stimulates liver to produce acute-phase proteins.
+
+Q: CXCL8 (IL-8)
+A: Chemokine produced by macrophages; recruits neutrophils, basophils, and T cells to sites of infection via CXCR1/CXCR2 receptors.
+
+Q: IL-12
+A: Cytokine produced by macrophages and DCs; activates NK cells and drives differentiation of naive CD4 T cells into Th1 cells.
+
+Q: IL-18
+A: Cytokine that works together with IL-12 to stimulate NK cell proliferation and effector function, including IFN-gamma production.
+
+Q: Interferon-Stimulated Genes (ISGs)
+A: Hundreds of genes induced by Type I IFNs via JAK/STAT signaling; products include Mx proteins, PKR, oligoadenylate synthase, and IFIT proteins that inhibit viral replication.
+
+Q: Protein Kinase R (PKR)
+A: An ISG product activated by dsRNA; phosphorylates eIF2-alpha to inhibit translation, blocking viral protein synthesis.
+
+Q: Oligoadenylate Synthase
+A: An ISG product activated by dsRNA; synthesizes 2'5'-linked adenylate oligomers that activate RNase L to degrade viral RNA.
+
+Q: RNase L
+A: Endonuclease activated by oligoadenylate synthase products; degrades viral RNA as part of the Type I IFN antiviral response.
+
+Q: JAK/STAT Pathway
+A: Intracellular signaling pathway used by most cytokine receptors; cytokine binding causes receptor dimerization, JAK kinases phosphorylate STAT proteins, activated STATs dimerize and translocate to the nucleus to drive gene transcription.
+
+Q: JAK (Janus Kinase)
+A: Tyrosine kinase constitutively associated with cytokine receptors; upon receptor dimerization, JAKs transphosphorylate each other and phosphorylate STAT proteins to initiate signaling.
+
+Q: STAT Proteins
+A: Transcription factors activated by JAK phosphorylation; dimerize and translocate to the nucleus to induce cytokine-responsive genes.
+
+Q: Acute-phase Proteins
+A: Proteins produced by the liver in response to IL-6, IL-1, and TNF during systemic infection; include C-reactive protein (CRP), mannose-binding lectin (MBL), and fibrinogen.
+
+Q: C-reactive Protein (CRP)
+A: Acute-phase protein produced by hepatocytes; binds phosphocholine on bacterial surfaces, acting as an opsonin and activating complement by recruiting C1q.
+
+Q: Sepsis
+A: Life-threatening systemic inflammatory response caused by widespread infection; systemic TNF-alpha and other cytokines cause edema, disseminated intravascular coagulation, vascular collapse, and multi-organ failure.
+
+Q: DC Maturation
+A: Process by which PRR activation converts an immature DC into a mature DC with high MHC II, CD80/CD86 expression, capable of activating naive T cells in lymph nodes.
+
+========================================
+LECTURE 5: Lymphocyte Antigen Receptors
+========================================
+
+Q: Clonal Expression
+A: Each B or T cell produces a single receptor with a unique specificity (1 cell = 1 specificity), in contrast to innate cells which express PRRs non-clonally.
+
+Q: Immunoglobulin (Ig) / Antibody
+A: Glycoprotein secreted by activated B cells; consists of two identical heavy chains (~50 kDa) and two identical light chains (~25 kDa) held together by disulfide bonds, with two identical antigen-binding sites.
+
+Q: Heavy Chain
+A: The larger polypeptide of an antibody (50 kDa); contains variable (VH) and constant (CH1, CH2, CH3) domains; the constant region determines antibody isotype and effector function.
+
+Q: Light Chain
+A: The smaller polypeptide of an antibody (25 kDa); contains variable (VL) and constant (CL) domains; pairs with the heavy chain to form the antigen-binding site.
+
+Q: Fab Fragment
+A: "Fragment antigen binding"; the portion of an antibody containing one VH-CH1 paired with one VL-CL; responsible for antigen recognition; generated by papain cleavage.
+
+Q: Fc Fragment
+A: "Fragment crystallizable"; consists of paired CH2 and CH3 domains; mediates effector functions by interacting with Fc receptors on immune cells and with complement.
+
+Q: Hinge Region
+A: Flexible region between CH1 and CH2 domains of the heavy chain; allows conformational flexibility of the two Fab arms relative to the Fc.
+
+Q: CDR (Complementarity-Determining Region)
+A: Hypervariable loops (HV1/CDR1, HV2/CDR2, HV3/CDR3) within the V regions of both heavy and light chains; make direct contact with antigen and are the primary determinants of binding specificity.
+
+Q: BCR (B Cell Receptor)
+A: Membrane-bound form of an immunoglobulin on the surface of a B cell; associated with signaling subunits Ig-alpha and Ig-beta which contain ITAMs.
+
+Q: Epitope
+A: The three-dimensional face (portion) of an antigen that makes direct contact with the antibody or TCR; also called an antigenic determinant.
+
+Q: Linear (Sequential) Epitope
+A: An epitope defined by a contiguous stretch of amino acid sequence; recognized by antibodies even when the protein is denatured; the only type of epitope recognized by T cells.
+
+Q: Conformational Epitope
+A: An epitope formed by non-contiguous amino acids brought together by 3D protein folding; recognized only by antibodies binding native protein structure.
+
+Q: Affinity
+A: Strength of a single antibody binding site interacting with a single epitope; determined by the complementarity of the CDR-epitope interface.
+
+Q: Avidity
+A: Overall binding strength of an antibody to an antigen accounting for all binding sites simultaneously; IgM pentamers have much higher avidity than monovalent interactions.
+
+Q: Isotype Switching (Class Switching)
+A: Process by which activated B cells change the constant region of the heavy chain (e.g., from IgM to IgG, IgE, or IgA) while retaining the same variable region, linking the same antigen specificity to a different effector mechanism.
+
+Q: IgM
+A: First antibody isotype expressed on naive B cells and secreted during a primary response; forms a pentamer (10 antigen-binding sites) via J chain, giving very high avidity; activates complement efficiently.
+
+Q: IgD
+A: Isotype co-expressed with IgM on the surface of naive B cells; functions primarily as a BCR.
+
+Q: IgG
+A: The predominant isotype in serum after class switching; monomer; mediates opsonization via Fc receptors, ADCC via NK cells, and complement activation.
+
+Q: IgE
+A: Isotype that mediates activation of mast cells and basophils via high-affinity Fc receptors; critical in allergic responses and defense against parasites.
+
+Q: IgA
+A: Isotype found primarily in mucosal secretions; forms a dimer via J chain; key for mucosal immunity.
+
+Q: Fc Receptor (FcR)
+A: Cell surface receptor on phagocytes, NK cells, mast cells, and other immune cells that binds the Fc region of antibodies; mediates opsonization, ADCC, and mast cell degranulation.
+
+Q: Nanobody (VH Domain Antibody)
+A: The isolated VH domain from camelid or shark heavy-chain-only antibodies; a single polypeptide containing the entire antigen-binding site; used as research tools and therapeutics.
+
+Q: Monoclonal Antibody (mAb)
+A: Antibody produced by a single B cell clone (hybridoma), yielding a homogeneous preparation with a single defined specificity; generated by fusing immunized spleen B cells with immortal myeloma cells.
+
+Q: HAT Medium
+A: Selective culture medium (hypoxanthine-aminopterin-thymidine) used to select only successfully fused hybridoma cells during monoclonal antibody production.
+
+Q: Flow Cytometry
+A: Technique in which cells labeled with fluorescent antibodies are passed single-file through a laser beam; detects fluorescence and light scatter to identify and quantify cell populations.
+
+Q: FACS (Fluorescence-Activated Cell Sorter)
+A: A flow cytometer with the additional ability to physically sort and separate live cell populations based on their fluorescence signals.
+
+Q: Gating
+A: Analytical step in flow cytometry data analysis in which a subset of events is selected based on defined size, granularity, or fluorescence parameters for further analysis.
+
+Q: TCR Alpha Chain / Beta Chain
+A: The two polypeptide chains of the most common (alpha-beta) TCR; each has a variable and constant domain linked by disulfide bonds; together form a single antigen-binding site specific for peptide:MHC complexes.
+
+Q: TCR Gamma Chain / Delta Chain
+A: Alternative TCR chains forming the gamma-delta TCR; expressed by a minor T cell subset with distinct tissue distribution and antigen recognition properties.
+
+Q: T Cell Epitope
+A: Always a linear (sequential) peptide fragment; never conformational, because antigen must be proteolytically processed before MHC loading, destroying three-dimensional structure.
+
+Q: Peptide:MHC Complex
+A: The molecular complex recognized by the TCR; consists of a processed peptide antigen in the MHC groove; TCR CDR loops contact both the peptide and the MHC helices simultaneously.
+
+
+========================================
+LECTURE 6: Generation of Lymphocyte Antigen Receptors
+========================================
+
+Q: GOD Problem (Generation of Diversity)
+A: The immunological problem of how the immune system generates a vast repertoire of antigen receptors from a finite genome; solved by V(D)J somatic recombination.
+
+Q: Somatic Recombination
+A: DNA rearrangement that occurs in non-germline (somatic) lymphocyte cells during development; assembles functional Ig and TCR genes from separate V, D, and J gene segments.
+
+Q: V (Variable) Gene Segment
+A: Gene segment encoding the first ~96 amino acids of the Ig heavy chain or the majority of the light chain variable domain; ~40 functional segments in human heavy chain locus.
+
+Q: D (Diversity) Gene Segment
+A: Gene segment found only in Ig heavy chain and TCR beta chain loci; encodes 3-6 amino acids of the CDR3 region; ~23 functional segments in human heavy chain.
+
+Q: J (Joining) Gene Segment
+A: Gene segment encoding the last portion of the variable domain before the constant region; 6 in human heavy chain, 5 in kappa light chain.
+
+Q: Kappa (kappa) Light Chain Locus
+A: One of two Ig light chain loci; uses V-J recombination only (no D segment); ~50 V segments and 5 J segments in humans.
+
+Q: Lambda (lambda) Light Chain Locus
+A: The second Ig light chain locus; similar V-J structure to kappa.
+
+Q: Combinatorial Diversity
+A: The diversity arising from random combinatorial joining of different V, D, and J gene segments; generates ~1.5 x 10^6 Ig combinations before junctional diversity.
+
+Q: Recombination Signal Sequence (RSS)
+A: Conserved DNA sequences flanking each V, D, and J gene segment consisting of a conserved heptamer, a spacer of 12 or 23 nucleotides, and a conserved nonamer; recognized by the RAG complex.
+
+Q: Heptamer (RSS)
+A: The conserved 7-nucleotide sequence (CACAGTG) of the RSS directly adjacent to the coding gene segment; site where RAG complex makes the DNA nick.
+
+Q: Nonamer (RSS)
+A: The conserved 9-nucleotide sequence (ACAAAAAC) of the RSS separated from the heptamer by a spacer; essential for RAG complex binding.
+
+Q: 12/23 Rule
+A: V(D)J recombination only occurs between a gene segment flanked by a 12-bp spacer RSS and one flanked by a 23-bp spacer RSS; prevents nonproductive joins (e.g., V-V joining).
+
+Q: RAG1 and RAG2 (Recombination Activation Genes)
+A: The two lymphocyte-specific proteins that form the V(D)J recombinase; expressed only in developing B and T cells; bind RSSs, synapse two segments, and make double-strand DNA breaks at coding-RSS junctions.
+
+Q: Hairpin Coding End
+A: The covalently closed hairpin DNA structure formed at the coding segment end after RAG cleavage; opened by the Artemis:DNA-PK complex to generate P-nucleotides.
+
+Q: Signal End
+A: The blunt, 5'-phosphorylated DNA end at the RSS after RAG cleavage; signal ends are joined precisely head-to-head to form the circular signal joint.
+
+Q: Signal Joint
+A: The precise circular DNA product formed by ligation of two signal ends after RAG-mediated excision; lost from the chromosome as a circular episome.
+
+Q: Coding Joint
+A: The imprecise junction formed between two coding ends after V(D)J recombination; site of junctional diversity via P- and N-nucleotides.
+
+Q: NHEJ (Non-Homologous End Joining)
+A: The DNA double-strand break repair pathway used to rejoin coding ends after RAG cleavage; involves Ku70:Ku80, DNA-PK, Artemis, TdT, and DNA Ligase IV:XRCC4.
+
+Q: Ku70:Ku80
+A: A heterodimeric DNA-binding complex that binds broken DNA ends as the first step in NHEJ; recruits DNA-PK to hairpin coding ends.
+
+Q: DNA-PK
+A: A kinase recruited by Ku70:Ku80 that phosphorylates and activates Artemis to open hairpin coding ends.
+
+Q: Artemis
+A: A nuclease activated by DNA-PK that opens the hairpin coding ends, generating palindromic (P) nucleotide overhangs.
+
+Q: P-nucleotides (Palindromic Nucleotides)
+A: Short palindromic nucleotide sequences introduced at coding joints when hairpin coding ends are opened asymmetrically by Artemis:DNA-PK; contribute to junctional diversity.
+
+Q: TdT (Terminal Deoxynucleotidyl Transferase)
+A: A lymphocyte-specific enzyme that adds random non-templated (N) nucleotides to open coding ends; expressed only in developing lymphocytes; a major source of junctional diversity.
+
+Q: N-nucleotides (Non-templated Nucleotides)
+A: Random nucleotides added by TdT to coding ends in a template-independent manner; greatly amplify junctional diversity.
+
+Q: DNA Ligase IV:XRCC4
+A: The ligase complex that seals the final coding joint in NHEJ after TdT addition and exonuclease trimming.
+
+Q: Junctional Diversity
+A: The additional receptor diversity created at V-D and D-J junctions by imprecise joining, P-nucleotide addition, N-nucleotide addition, and exonuclease trimming; responsible for CDR3 being the most diverse region.
+
+Q: Nonproductive Rearrangement
+A: A V(D)J recombination event that results in an out-of-frame or stop-codon-containing sequence; up to 2/3 of rearrangements at some loci are nonproductive.
+
+Q: TCR Alpha Chain Locus
+A: Contains ~70-80 V segments and ~61 J segments; undergoes V-J recombination only (no D segment).
+
+Q: TCR Beta Chain Locus
+A: Contains ~52 V segments, 2 D segments, and 13 J segments; undergoes V-D-J recombination.
+
+Q: Total Receptor Diversity
+A: Immunoglobulins: ~5 x 10^13 combinations after nucleotide addition/deletion; TCRs: ~10^18 combinations.
+
+Q: SCID (Severe Combined Immunodeficiency)
+A: A condition in which both B and T cell development is completely blocked due to failure of V(D)J recombination; caused by mutations in RAG1, RAG2, DNA-PK, or other NHEJ components.
+
+Q: Omenn Syndrome
+A: A partial loss-of-function phenotype caused by hypomorphic RAG mutations; results in severely reduced but not absent lymphocyte development with inflammatory features.
+
+Q: Southern Blot
+A: A technique using restriction enzymes, gel electrophoresis, and a labeled DNA probe to detect specific DNA sequences; used by Tonegawa to discover that antibody genes rearrange somatically in B cells (Nobel Prize 1987).
+
+Q: Myeloma
+A: A B cell tumor; multiple myelomas each produce a unique antibody, demonstrating clonal antibody production and providing evidence for somatic recombination via different Southern blot patterns.
+
+
+========================================
+LECTURE 7: MHC and the Genetics of the Immune Response
+========================================
+
+Q: MHC (Major Histocompatibility Complex)
+A: A large genetic locus encoding molecules that present peptide antigens to T cells. Located on chromosome 17 in mice and chromosome 6 in humans.
+
+Q: H-2
+A: The mouse MHC locus; encodes 3 class I proteins (K, D, L) and 2 class II proteins (A, E).
+
+Q: HLA (Human Leukocyte Antigens)
+A: The human MHC locus; encodes 3 class I proteins (HLA-A, HLA-B, HLA-C) and 3 class II proteins (HLA-DP, HLA-DQ, HLA-DR).
+
+Q: MHC Class I Molecules
+A: MHC molecules composed of one alpha chain non-covalently associated with beta-2-microglobulin; expressed on all nucleated cells and present peptides to CD8 T cells. Bind peptides of 8-9 amino acids with both ends anchored within the closed groove.
+
+Q: MHC Class II Molecules
+A: MHC molecules composed of non-covalently associated alpha and beta chains; expressed only on professional APCs and thymic epithelial cells; present peptides to CD4 T cells. Bind longer peptides (13-25+ amino acids) with "ragged" overhanging ends because the groove is open at both ends.
+
+Q: Peptide-binding Cleft (Groove)
+A: The groove formed by the alpha-1 and alpha-2 domains of MHC class I (or alpha-1 and beta-1 domains of class II) that holds antigenic peptides for presentation to TCRs.
+
+Q: Beta-2-Microglobulin
+A: A non-polymorphic protein non-covalently associated with the MHC class I alpha chain; required for class I stability and surface expression but not encoded within the MHC locus.
+
+Q: Inbred Strains
+A: Mouse strains generated by repeated brother-sister matings until homozygous at every gene locus; any two mice of the same inbred strain are genetically identical.
+
+Q: Syngenic Mice
+A: Mice that are genetically identical at all loci (same inbred strain); grafts between syngenic mice are accepted.
+
+Q: Congenic Mice
+A: Mice genetically identical except for a small defined genomic region (e.g., the MHC locus); created by repeated backcrossing over 10+ generations.
+
+Q: Skin Graft Rejection
+A: The immune rejection of transplanted skin tissue between genetically non-identical animals; mediated by T cells recognizing mismatched MHC alleles.
+
+Q: MHC Restriction
+A: The principle that T cells can only recognize antigen when presented on the same MHC alleles present during T cell development. Demonstrated by Zinkernagel and Doherty (Nobel Prize 1996).
+
+Q: MHC Polymorphism
+A: The existence of many alternative alleles at MHC class I and class II gene loci within a population; these are normal population variants. HLA-A has ~4064 alleles, HLA-B ~4962 in humans.
+
+Q: MHC Haplotype
+A: The set of alleles at all MHC loci inherited together as a linked group from one chromosome.
+
+Q: Co-dominant Expression of MHC
+A: Both maternal and paternal MHC alleles are expressed on the surface of every cell; an F1 hybrid expresses all MHC molecules from both parental haplotypes.
+
+Q: Polygeny (MHC)
+A: The presence of multiple distinct MHC genes encoding class I and class II molecules within a single individual; humans have 3 class I and 3 class II loci.
+
+Q: Anchor Residues
+A: Specific amino acid positions within an MHC-bound peptide that insert into pockets in the peptide-binding groove; different MHC alleles have different pocket shapes, resulting in different anchor residue preferences.
+
+Q: Alloreactivity
+A: The reactivity of T cells from one individual to MHC molecules of a genetically different individual; 1-10% of T cells in any individual are alloreactive.
+
+Q: Clonal Deletion (Thymic)
+A: The process by which T cells whose TCRs bind self MHC with too-high affinity are eliminated during thymic development (negative selection).
+
+Q: Positive Selection
+A: Survival of developing T cells whose TCRs have weak/intermediate affinity for self peptide:MHC complexes in the thymus; ensures the mature T cell repertoire is self-MHC-restricted.
+
+Q: Negative Selection
+A: Elimination of developing T cells whose TCRs bind self MHC with too-high affinity; prevents autoreactivity.
+
+Q: HLA Mismatch and Transplant Survival
+A: Greater number of HLA mismatches between donor and recipient correlates with higher frequency of alloreactive T cells and lower cumulative graft survival.
+
+Q: MHC and Disease Susceptibility
+A: Specific HLA alleles are associated with dramatically increased risk of certain diseases (e.g., HLA-B27 with ankylosing spondylitis RR=90; HLA-DR2 with narcolepsy RR=130; HLA-DR4/DR3 with type 1 diabetes RR=20).
+
+Q: LMP/TAP Genes
+A: Genes within the MHC class II region encoding components of the proteasome (LMP2, LMP7) and the TAP peptide transporter.
+
+Q: TAPBP (Tapasin)
+A: A chaperone encoded in the MHC locus that tethers TAP to MHC class I and facilitates optimal peptide loading in the ER.
+
+
+========================================
+LECTURE 8: Antigen Processing and Presentation
+========================================
+
+Q: Antigen Processing and Presentation
+A: The enzymatic process of degrading proteins into peptides, loading those peptides onto MHC molecules, and displaying the peptide:MHC complex on the cell surface for T cell recognition.
+
+Q: APC (Antigen Presenting Cell)
+A: Cell that displays peptide:MHC complexes on its surface; professional APCs (dendritic cells, macrophages, B cells) express MHC class II and can activate CD4+ T cells.
+
+Q: Self Peptides
+A: Most MHC-bound peptides on APCs are derived from the cell's own proteins, not from pathogens; T cells must be tolerant to these to avoid autoimmunity.
+
+Q: Proteasome
+A: A large multicatalytic protease complex in the cytosol composed of a 20S catalytic core and two 19S regulatory caps; degrades polyubiquitinated cytosolic proteins into peptide fragments for MHC class I loading.
+
+Q: Ubiquitin
+A: A small protein tag covalently attached to cytosolic proteins destined for proteasomal degradation; marks proteins for recognition by the 19S cap of the proteasome.
+
+Q: TAP (Transporters Associated with Antigen Processing)
+A: A heterodimeric ABC transporter (TAP1 + TAP2) in the ER membrane that uses ATP hydrolysis to pump cytosolic peptides into the ER lumen for loading onto MHC class I molecules.
+
+Q: TAP1 / TAP2
+A: The two subunits that form the TAP heterodimer; both contain hydrophobic transmembrane domains and cytosolic ATP-binding cassette (ABC) domains; genes encoded within the MHC locus.
+
+Q: EndoH (Endoglycosidase H)
+A: An enzyme that removes N-linked sugars from ER-resident glycoproteins but not from proteins that have trafficked through the Golgi; used to determine whether a protein has exited the ER.
+
+Q: Peptide Stabilization of MHC I
+A: Binding of a peptide to the MHC class I groove completes folding of the alpha chain/beta-2m complex, releasing it from TAP and chaperones for export to the cell surface.
+
+Q: ICP47
+A: A Herpes Simplex Virus (HSV) protein that binds to and inhibits TAP, blocking peptide transport into the ER and reducing MHC class I surface expression to evade CTL killing.
+
+Q: Cytosolic Pathway (MHC I)
+A: Cytosolic proteins are degraded by the proteasome, peptides are transported into the ER by TAP, loaded onto MHC class I, and presented to CD8+ T cells; effector outcome is killing of the presenting cell.
+
+Q: Endosomal/Lysosomal Pathway (MHC II)
+A: Extracellular antigens are taken up by endocytosis/phagocytosis, degraded by proteases at low pH in endosomes/lysosomes, and peptides are loaded onto MHC class II for presentation to CD4+ T cells.
+
+Q: Invariant Chain (Ii / CD74)
+A: A chaperone that binds to newly assembled MHC class II heterodimers in the ER; the CLIP segment blocks the peptide-binding groove, and Ii's cytoplasmic tail directs MHC II trafficking through the Golgi to endosomes.
+
+Q: CLIP (Class II-associated Invariant chain Peptide)
+A: The short peptide fragment of invariant chain that remains bound in the MHC class II groove after Ii is progressively cleaved by lysosomal proteases; must be removed before antigenic peptide can bind.
+
+Q: HLA-DM (H-2M in mice)
+A: A nonclassical, non-polymorphic MHC class II-like molecule that catalyzes the exchange of CLIP for antigenic peptides in acidic endosomal compartments (MIIC).
+
+Q: MIIC (MHC Class II Compartment)
+A: Specialized late endosomal/lysosomal compartment where peptide loading onto MHC class II occurs; site where HLA-DM facilitates CLIP removal and antigenic peptide exchange.
+
+Q: Autophagy
+A: Cellular process in which cytosolic contents are sequestered into double-membrane autophagosomes and delivered to lysosomes for degradation; can deliver cytosolic antigens into the MHC class II presentation pathway.
+
+Q: Autophagosome
+A: Double-membrane vesicle that sequesters cytosolic material during autophagy; fuses with lysosomes/endosomes, enabling cytosolic antigens to access the MHC class II loading compartment.
+
+Q: cDC1 (Conventional Dendritic Cell Type 1)
+A: A specialized dendritic cell subset uniquely optimized to perform cross-presentation; primes naive CD8+ T cells by presenting exogenously acquired antigens on MHC class I, and secretes IL-12 and IL-18.
+
+Q: Cross-presentation
+A: The process by which dendritic cells (primarily cDC1s) present exogenously acquired (endocytosed) antigens on MHC class I molecules to prime CD8+ T cells; allows immune responses against pathogens that do not directly infect dendritic cells.
+
+
+========================================
+LECTURE 9: Signaling by Antigen Receptors
+========================================
+
+Q: Signal Transduction
+A: The process by which extracellular ligand binding is converted into intracellular biochemical events, ultimately leading to changes in gene expression.
+
+Q: Lymphocyte Activation
+A: The process by which antigen recognition by TCR or BCR, combined with co-receptor and cytokine signals, drives T or B cell proliferation, survival, and differentiation.
+
+Q: Kinase
+A: An enzyme that transfers phosphate groups onto specific amino acid residues (tyrosine, serine, or threonine) of target proteins, modulating their activity.
+
+Q: SH2 Domain
+A: A protein domain that binds specifically to phosphorylated tyrosine (phospho-tyrosine) motifs, enabling phosphorylation-dependent protein-protein interactions downstream of receptor activation.
+
+Q: SH3 Domain
+A: A protein domain present in Src family kinases and adaptor proteins that mediates protein-protein interactions, often binding proline-rich sequences.
+
+Q: Non-receptor Tyrosine Kinase
+A: A cytoplasmic kinase that lacks a transmembrane domain and associates non-covalently with receptors to phosphorylate downstream substrates upon receptor engagement.
+
+Q: Second Messenger
+A: A small intracellular molecule (e.g., Ca2+, DAG, IP3) released or generated upon receptor activation that rapidly diffuses and propagates the signal throughout the cell.
+
+Q: Calmodulin
+A: A calcium-binding protein that undergoes conformational change upon Ca2+ binding and activates downstream effector proteins including calcineurin.
+
+Q: CD3 Complex
+A: The signaling subunit complex (gamma, delta, epsilon, and zeta chains) non-covalently associated with the TCR; contains ITAMs on intracellular tails that are phosphorylated upon TCR engagement.
+
+Q: Zeta (zeta) Chain
+A: The CD3 zeta chain contains three ITAMs (the most of any CD3 subunit) and is a major site for ZAP-70 recruitment following Lck-mediated phosphorylation.
+
+Q: Ig-alpha/Ig-beta
+A: The signaling heterodimer non-covalently associated with the BCR (membrane IgM); contains ITAM motifs on intracellular tails, analogous to CD3 in TCR signaling.
+
+Q: Src Family Kinases
+A: A family of non-receptor tyrosine kinases containing SH2 and SH3 domains; in T cells, Lck and Fyn phosphorylate ITAMs on the CD3 complex; in B cells, Blk, Fyn, or Lyn phosphorylate ITAMs on Ig-alpha/Ig-beta.
+
+Q: Lck
+A: A Src family kinase constitutively associated with the cytoplasmic tails of CD4 and CD8 co-receptors; upon TCR-MHC engagement, Lck phosphorylates ITAMs on CD3 and subsequently activates ZAP-70.
+
+Q: Syk Family Kinases
+A: A family of kinases containing tandem SH2 domains that bind doubly phosphorylated ITAMs; ZAP-70 is the Syk family member in T cells, Syk itself functions in B cells.
+
+Q: ZAP-70 (Zeta-chain Associated Protein Kinase 70)
+A: A Syk family kinase recruited to doubly phosphorylated ITAMs on the CD3 zeta chain via its tandem SH2 domains; activated by Lck phosphorylation, it then phosphorylates LAT and SLP-76.
+
+Q: Syk
+A: The Syk family kinase in B cells; recruited to doubly phosphorylated ITAMs on Ig-alpha/Ig-beta; phosphorylates SLP-65 and activates downstream pathways analogous to ZAP-70 in T cells.
+
+Q: LAT (Linker for Activation of T cells)
+A: A transmembrane scaffold/adaptor protein phosphorylated by ZAP-70; phospho-LAT recruits Gads, SLP-76, PLC-gamma, and PI3K to form a signaling complex at the membrane.
+
+Q: SLP-76
+A: An adaptor protein phosphorylated by ZAP-70 that forms a complex with LAT and Gads at the plasma membrane, essential for recruiting and activating PLC-gamma.
+
+Q: SLP-65
+A: The B cell equivalent of SLP-76; an adaptor phosphorylated by Syk that participates in downstream BCR signaling.
+
+Q: PI3K (Phosphoinositide 3-kinase)
+A: A lipid kinase recruited to phospho-LAT (T cells) or phospho-CD19 (B cells) that phosphorylates PIP2 to generate PIP3 at the plasma membrane.
+
+Q: PIP2 (Phosphatidylinositol 4,5-bisphosphate)
+A: A membrane phospholipid that serves as a substrate for both PI3K (generating PIP3) and PLC-gamma (generating DAG and IP3).
+
+Q: PIP3 (Phosphatidylinositol 3,4,5-trisphosphate)
+A: A lipid second messenger generated by PI3K; recruits PH-domain-containing proteins (Itk, Akt) to the plasma membrane to propagate signaling.
+
+Q: PLC-gamma (Phospholipase C-gamma)
+A: An enzyme recruited to the LAT:Gads:SLP-76 complex and activated by Itk; cleaves PIP2 into the two second messengers DAG and IP3.
+
+Q: DAG (Diacylglycerol)
+A: A membrane-resident lipid second messenger generated by PLC-gamma cleavage of PIP2; recruits and activates PKC-theta and RasGRP at the plasma membrane.
+
+Q: IP3 (Inositol 1,4,5-trisphosphate)
+A: A soluble second messenger generated by PLC-gamma cleavage of PIP2; binds IP3 receptors on the ER membrane to trigger Ca2+ release into the cytosol.
+
+Q: Calcineurin
+A: A Ca2+/calmodulin-activated serine phosphatase; dephosphorylates NFAT, enabling its nuclear translocation and activation of target genes including IL-2.
+
+Q: NFAT (Nuclear Factor of Activated T cells)
+A: A transcription factor kept inactive in the cytoplasm by phosphorylation; dephosphorylated by calcineurin upon Ca2+ signaling, it translocates to the nucleus to drive expression of IL-2 and other T cell activation genes.
+
+Q: Cyclosporin A
+A: An immunosuppressive drug that blocks calcineurin activity, thereby preventing NFAT dephosphorylation, nuclear translocation, and T cell activation.
+
+Q: PKC-theta
+A: A protein kinase C isoform recruited to the plasma membrane by DAG; phosphorylates CARMA1, initiating a signaling cascade that activates NF-kB.
+
+Q: CARMA1
+A: A scaffold protein phosphorylated by PKC-theta; forms a complex with BCL10 and MALT1 that recruits TRAF6 to activate the IKK complex and NF-kB.
+
+Q: Ras
+A: A small GTPase activated by DAG (via RasGRP); in its GTP-bound form, Ras activates the MAP kinase cascade (Raf-Mek-Erk), leading to AP-1 activation.
+
+Q: RasGRP
+A: A guanine nucleotide exchange factor (GEF) activated by DAG that exchanges GDP for GTP on Ras, converting it to its active form.
+
+Q: MAP Kinase Pathway (Raf-Mek-Erk)
+A: A kinase cascade activated downstream of Ras; amplifies the signal and ultimately activates the AP-1 transcription factor to drive T cell proliferation, differentiation, and survival genes.
+
+Q: AP-1
+A: A transcription factor activated downstream of DAG-Ras-MAP kinase signaling; works cooperatively with NFAT and NF-kB to drive expression of T cell effector genes including IL-2.
+
+Q: IL-2 (Interleukin-2)
+A: A key cytokine produced by activated T cells whose gene promoter requires cooperative binding of NFAT, NF-kB, and AP-1; IL-2 drives T cell proliferation and survival.
+
+Q: CD19
+A: The B cell co-receptor component that, upon BCR cross-linking, is phosphorylated and recruits PI3K; greatly amplifies BCR signaling by generating PIP3.
+
+Q: CD21 (CR2)
+A: A complement receptor that is part of the B cell co-receptor complex (with CD19 and CD81); binds complement-opsonized antigen to co-ligate the BCR and CD19, lowering the threshold for B cell activation.
+
+Q: Ligand Affinity Discrimination
+A: The complexity of TCR signaling allows T cells to distinguish high-affinity foreign peptide:MHC from self peptide:MHC, enabling appropriate activation versus tolerance.

@@ -1,0 +1,536 @@
+MCB 150 - MIDTERM PRACTICE PROBLEMS
+=====================================
+Spring 2026 | Prof. Saxton
+Aligned to Midterm 1 Study Guide
+=====================================
+
+Please feel free to discuss these problems with other students but write your
+answers independently and in your own words.
+
+=====================================
+SECTION 1: BIG PICTURE CONCEPTS
+=====================================
+
+1. List three differences between the innate and adaptive immune systems in
+   terms of how they recognize microbes. For each difference, explain the
+   underlying reason (e.g., why does one system have that property and not
+   the other?).
+
+2. Describe the four core tasks that the immune system must accomplish to
+   successfully defend the host against infection. For each task, give one
+   specific example of a cell type or molecule that carries it out.
+
+3. A naive mouse is injected with heat-killed Listeria bacteria mixed with
+   ovalbumin protein (OVA). A second mouse receives OVA protein alone. Both
+   mice receive a booster injection of OVA two weeks later.
+   a) Which mouse mounts a stronger antibody response to OVA after the
+      booster? Why?
+   b) What is the name of this phenomenon?
+   c) Identify the specific molecular event on the dendritic cell that links
+      innate sensing of the bacteria to activation of OVA-specific T cells.
+
+4. Define clonal selection. Explain why this process is essential for
+   adaptive immunity to be both specific and capable of memory.
+
+5. A patient receives a vaccine consisting of a purified protein subunit
+   with no adjuvant. A second patient receives the same protein mixed with
+   alum (an adjuvant that activates the NLRP3 inflammasome).
+   a) Predict which patient will mount a stronger T cell response. Explain.
+   b) What does this tell us about the relationship between innate and
+      adaptive immunity?
+
+6. Explain what is meant by "self vs. non-self discrimination." Give one
+   example of a failure of this principle and the disease that results.
+
+
+=====================================
+SECTION 2: COMPLEMENT SYSTEM
+=====================================
+
+7. For each of the three complement pathways, describe:
+   a) The initial recognition event that triggers the pathway
+   b) The C3 convertase generated (give its molecular composition)
+   c) Whether the pathway requires antibody
+
+8. Starting from C3 cleavage, describe how C5 convertase is formed in the
+   alternative pathway. What is the molecular composition of the alternative
+   pathway C5 convertase, and what does it cleave?
+
+9. Describe the three distinct outcomes of complement activation. For each
+   outcome, name the specific complement component(s) responsible and the
+   effector mechanism involved.
+
+10. A researcher knocks out properdin (Factor P) in mice.
+    a) Which complement pathway is most directly affected?
+    b) Would you expect classical pathway activation to also be impaired?
+       Explain.
+    c) These mice show increased susceptibility to Neisseria meningitidis.
+       Which of the three complement outcomes is most critical for defense
+       against this organism, and why?
+
+11. Explain how host cells are protected from complement-mediated lysis.
+    Describe two distinct molecular mechanisms, naming the specific
+    regulatory proteins involved and how each one works.
+
+12. A patient with a gain-of-function mutation in Factor B (making C3bBb
+    constitutively active) presents with recurrent kidney damage and low
+    serum C3 levels.
+    a) Explain why serum C3 is depleted.
+    b) Why would the kidneys be particularly vulnerable in this patient?
+    c) Would you expect this patient to be more or less susceptible to
+       bacterial infection than a normal patient? Explain.
+
+13. Predict the relative severity of immune deficiency in patients with
+    the following complement deficiencies. Rank them from most to least
+    severe and justify your ranking.
+    a) C3 deficiency
+    b) C9 deficiency
+    c) Factor D deficiency
+    d) Factor H deficiency
+
+
+=====================================
+SECTION 3: PATTERN RECOGNITION RECEPTORS
+=====================================
+
+14. Define PAMP. Explain why PAMPs tend to be conserved structures that are
+    difficult for pathogens to mutate away. Give three specific examples of
+    PAMPs and the PRR that detects each one.
+
+15. Predict which PRR(s) — from any family (TLR, NLR, RLR, cGAS-STING) —
+    would be most important for sensing the following pathogens. For each,
+    name the specific receptor, its location in the cell, and the PAMP it
+    detects.
+    a) E. coli (Gram-negative, replicates extracellularly)
+    b) Influenza A virus (ssRNA virus, replicates in nucleus, generates
+       dsRNA intermediates in the cytoplasm)
+    c) Listeria monocytogenes (Gram-positive, escapes phagosome into cytosol)
+    d) Herpes simplex virus 1 (DNA virus, replicates in nucleus)
+    e) Staphylococcus aureus (Gram-positive, replicates extracellularly)
+
+16. TLR3 and RIG-I both detect viral dsRNA. Explain:
+    a) Where in the cell each receptor is located and why.
+    b) Which adaptor each signals through (TRIF vs MAVS).
+    c) What transcription factor both ultimately activate, and what genes
+       are induced as a result.
+
+17. Describe the two-signal requirement for IL-1beta secretion.
+    a) What provides Signal 1, what does it induce, and via which pathway?
+    b) What provides Signal 2, what molecular complex does it activate?
+    c) What enzyme is activated as a result, and what does it cleave?
+    d) Why is requiring two signals an important safeguard?
+
+18. TRIF is an adaptor in TLR signaling that leads to IRF3 activation,
+    yet mice lacking IRF3 are more susceptible to many viral infections
+    than mice lacking TRIF. Explain.
+
+19. You are studying dendritic cells from TLR4-/- (knockout) mice.
+    a) Which PAMP would these cells fail to respond to?
+    b) TLR4 signals through both MyD88 and TRIF. If you stimulate wild-type
+       cells with LPS, which adaptor is responsible for NF-kB activation?
+       Which is responsible for IRF3 activation and type I IFN production?
+    c) Predict whether TLR4-/- mice would be able to produce any type I
+       interferon in response to a viral infection. Explain.
+
+
+=====================================
+SECTION 4: INFLAMMATION & CYTOKINES
+=====================================
+
+20. Sort the following cytokines and signaling molecules into the correct
+    signaling pathway category. For each, name the key transcription factor
+    activated.
+
+    Molecules: IL-1beta, IL-6, TNF-alpha, IL-12, IFN-beta, IFN-gamma,
+               C5a, CXCL8 (IL-8), IL-18
+
+    Categories:
+    a) JAK/STAT pathway
+    b) NF-kB pathway (via TNFR or IL-1R/TIR domain)
+    c) GPCR pathway
+
+21. Describe the sequence of events from bacterial infection in a tissue
+    to neutrophil arrival at the infection site. Your answer should include
+    the initial PRR signal, the cytokines and chemokines produced, how the
+    endothelium is activated, and the molecular steps of neutrophil
+    extravasation (rolling, adhesion, diapedesis).
+
+22. Type I interferons (IFN-alpha/beta) have both direct antiviral effects
+    on infected cells and immunostimulatory effects on other immune cells.
+    a) What PRR pathway(s) lead to type I IFN production? Name the key
+       transcription factor.
+    b) Describe two direct antiviral mechanisms induced in cells by type I
+       IFN signaling. Name the specific ISG products involved.
+    c) What receptor do type I IFNs signal through, and which JAK/STAT
+       combination do they activate?
+
+23. A patient presents in the emergency room with septic shock following
+    a bloodstream infection with E. coli.
+    a) What molecule from E. coli is primarily responsible for triggering
+       the systemic inflammatory response?
+    b) Describe three systemic effects of TNF-alpha that contribute to the
+       life-threatening state in sepsis.
+    c) IL-6 is also massively elevated. What acute-phase protein does IL-6
+       drive the liver to produce, and how is that protein measured
+       clinically?
+
+24. Explain the JAK/STAT signaling pathway used by IL-6.
+    a) What type of receptor does IL-6 bind?
+    b) Describe the molecular steps from receptor binding to gene
+       transcription, naming the specific JAKs and STAT involved.
+    c) Name two genes induced by this pathway and their functions.
+
+25. Compare and contrast the signaling pathways used by IL-1beta and TNF-alpha.
+    a) What type of receptor does each bind?
+    b) Do they share any signaling intermediates? If so, which ones?
+    c) Both activate NF-kB. Describe the steps from receptor engagement to
+       NF-kB nuclear translocation that are common to both pathways.
+
+
+=====================================
+SECTION 5: ANTIBODY STRUCTURE & FUNCTION
+=====================================
+
+26. Draw and label a schematic of an IgG antibody molecule. Your diagram
+    should identify: heavy chains, light chains, variable regions, constant
+    regions, CDRs, Fab fragments, Fc fragment, hinge region, and disulfide
+    bonds. Then answer:
+    a) Which portion is responsible for antigen binding?
+    b) Which portion mediates effector functions such as opsonization and
+       complement activation?
+    c) How many antigen-binding sites does one IgG molecule have?
+
+27. Define the following terms and explain how each contributes to antibody
+    function:
+    a) Epitope
+    b) Linear (sequential) epitope
+    c) Conformational epitope
+    d) Affinity
+    e) Avidity
+    Explain why IgM, despite having lower affinity per binding site than
+    IgG, can have higher overall avidity for a bacterial surface.
+
+28. You are given two antibodies that both recognize the same surface
+    protein on SARS-CoV-2. Antibody A recognizes a conformational epitope
+    on the receptor-binding domain. Antibody B recognizes a linear epitope
+    on the same protein.
+    a) You run a western blot of denatured viral proteins and probe with
+       both antibodies. Which antibody produces a band? Explain.
+    b) You treat virus with a cocktail of proteases and then test for B
+       cell activation. Only T cells (not B cells) are activated. What does
+       this tell you about how B cells recognize their antigen?
+    c) Both antibodies neutralize virus in cell culture. However, antibody
+       A also promotes phagocytosis while antibody B does not, even though
+       both bind the same protein. Propose an explanation.
+
+29. Compare monoclonal and polyclonal antibodies.
+    a) Define each and describe how each is produced.
+    b) A researcher needs to detect a specific cytokine (IL-6) by ELISA
+       with high sensitivity. Would you recommend a monoclonal or polyclonal
+       antibody as the detection reagent? Explain.
+    c) A patient bitten by a rattlesnake receives antivenom consisting of
+       polyclonal antibodies raised in horses. Would you expect these
+       antibodies to activate the patient's complement via the classical
+       pathway? Explain.
+
+30. Explain the concept of antibody isotype.
+    a) What region of the antibody determines isotype?
+    b) Name four isotypes and give one distinct effector function for each.
+    c) IgM is the first isotype secreted during a primary immune response.
+       Explain one structural feature of IgM that makes it especially
+       effective early in infection despite having lower affinity per
+       binding site compared to IgG.
+
+31. The cells in a lymph node are a mixture of T cells (~50% of total),
+    B cells (~40%), and dendritic cells/macrophages (~10%). B220 is
+    expressed by all B cells. There are about twice as many CD4 T cells
+    as CD8 T cells.
+
+    For each of the following staining panels, describe the expected
+    2-parameter flow cytometry plot. State the percentage of cells you
+    would expect in each quadrant and identify which cell population
+    occupies each quadrant.
+    a) B220 vs. TCR (wild-type mouse)
+    b) CD4 vs. CD8 (wild-type mouse)
+    c) CD4 vs. TCR (wild-type mouse)
+    d) B220 vs. TCR (RAG1-deficient mouse, which cannot complete V(D)J
+       recombination and therefore produces no B or T cells)
+    e) Explain what the upper-left quadrant of plot (a) represents
+       biologically and what it tells you about those cells.
+
+
+=====================================
+SECTION 6: V(D)J RECOMBINATION
+=====================================
+
+32. Describe the organization of the immunoglobulin heavy chain locus.
+    a) Name the three types of gene segments used and approximately how
+       many functional copies of each exist in humans.
+    b) Which gene segments are present in the light chain locus but absent
+       from the heavy chain locus? What is the consequence of this for
+       receptor diversity?
+    c) How does the TCR beta chain locus organization compare to the IgH
+       locus?
+
+33. V(D)J recombination requires several key molecular components. For
+    each component below, describe its specific role in the recombination
+    process:
+    a) RAG1/RAG2
+    b) RSS (recombination signal sequence) — describe the 12/23 rule
+    c) Ku70/Ku80
+    d) DNA-PK and Artemis
+    e) TdT (Terminal deoxynucleotidyl transferase)
+    f) DNA Ligase IV/XRCC4
+
+34. Junctional diversity dramatically amplifies the receptor repertoire
+    beyond what combinatorial joining alone can generate.
+    a) Explain two mechanisms that contribute to junctional diversity at
+       the coding joint.
+    b) Which CDR loop is most affected by junctional diversity, and why?
+    c) A developing B cell completes VH-D-JH joining. The resulting coding
+       joint sequence at the V-D junction is:
+          ...GACTAC | NNNNN | GAGTCA...
+       The germline VH segment ends in ...GACTAC and the D segment begins
+       GAGTCA... Identify which nucleotides in the junction are most likely
+       N-nucleotides vs. P-nucleotides, and explain how you can tell.
+
+35. For each of the following V(D)J recombination outcomes, determine
+    whether it is likely to be PRODUCTIVE or NON-PRODUCTIVE. Explain
+    your reasoning for each.
+    a) A VH-D-JH join results in the reading frame: ATG-CGT-AAA-TGA
+       (TGA = stop codon)
+    b) A VH-D-JH join results in a continuous open reading frame encoding
+       a 120 amino acid protein with no stop codons.
+    c) N-nucleotide addition at the V-J junction of a kappa light chain
+       inserts 2 nucleotides, shifting the reading frame.
+    d) N-nucleotide addition inserts 3 nucleotides (one codon) at the
+       V-D junction of a heavy chain without shifting the reading frame.
+
+36. Predict the consequence of each of the following mutations on
+    lymphocyte development. State whether B cells, T cells, or both would
+    be affected, and explain why.
+    a) Complete inactivation of RAG2
+    b) Inactivating mutation in DNA-PK
+    c) Deletion of the enzyme TdT
+    d) Deletion of all 6 JH segments in the IgH locus only
+    e) Mutation that prevents TdT from being expressed during T cell
+       development but not B cell development
+
+
+=====================================
+SECTION 7: MHC & RESTRICTION
+=====================================
+
+37. Describe three important structural and functional differences between
+    MHC class I and MHC class II molecules. For each difference, explain
+    the immunological consequence (e.g., which T cell subset is activated,
+    what types of antigens are presented).
+
+38. Define the following terms as they relate to MHC:
+    a) Polymorphism — how many alleles does HLA-B have in the human
+       population?
+    b) Polygeny — how many distinct MHC class I genes does a human have?
+    c) Haplotype
+    d) Co-dominant expression — what does this mean for how many different
+       MHC molecules are displayed on the surface of a single cell from an
+       F1 hybrid mouse?
+
+39. You have inbred strain A mice (H-2^a) and strain B mice (H-2^b).
+    You generate F1 hybrid mice by crossing strain A x strain B.
+    a) Will F1 mice reject a skin graft from strain A? Explain.
+    b) Will strain A mice reject a skin graft from F1 mice? Explain.
+    c) Will F1 mice reject a skin graft from an unrelated strain C mouse
+       (H-2^c)? Explain.
+    d) You irradiate an F1 mouse and reconstitute its bone marrow with
+       strain A cells. Once the immune system reconstitutes, what MHC
+       haplotype will the mature T cells be restricted to, and why?
+
+40. A mouse of strain A is immunized with antigen X. One week later, T cells
+    are purified and mixed in vitro with antigen X and APCs from the
+    indicated sources. Predict whether the T cells will proliferate and
+    explain your reasoning for each.
+    a) APCs from strain A + antigen X
+    b) APCs from strain B + antigen X
+    c) APCs from F1 (A x B) + antigen X
+    d) APCs from strain A + no antigen
+    e) No APCs + antigen X
+    f) APCs from strain C + antigen X → robust proliferation is observed.
+       What can you conclude about strain C's MHC?
+
+41. Explain alloreactivity.
+    a) Define alloreactivity and state approximately what fraction of T
+       cells in a naive individual are alloreactive.
+    b) Mechanistically, why are so many T cells alloreactive, even though
+       they were never exposed to foreign MHC during development?
+    c) How does alloreactivity explain why unimmunized strain A T cells
+       proliferate when mixed with strain B APCs (even without foreign
+       antigen)?
+    d) Why is alloreactivity clinically important for organ transplantation?
+
+42. The following peptides are eluted from a purified MHC molecule:
+       VFTSKAINK
+       SFTIRTALK
+       QFTYFIVAK
+       RFTQKAIAK
+       RFTQFIVNK
+       EFTGKYFKK
+    a) Are these peptides from MHC class I or class II? How can you tell?
+    b) Identify the anchor positions (by number) and the preferred anchor
+       residues at each position.
+    c) A new peptide GFTAKLVWK is presented to a T cell. The T cell
+       responds. Explain how the T cell's TCR contacts both the peptide
+       and the MHC molecule simultaneously.
+
+
+=====================================
+SECTION 8: ANTIGEN PROCESSING & PRESENTATION
+=====================================
+
+43. Outline the complete MHC class I antigen processing and presentation
+    pathway for a viral protein synthesized inside an infected cell.
+    Describe each step in order, naming the key organelle(s) and molecular
+    components at each step (proteasome, TAP, chaperones, beta-2m, tapasin).
+
+44. Outline the complete MHC class II antigen processing and presentation
+    pathway for a bacterial protein taken up by phagocytosis. Describe
+    each step in order, naming the key organelle(s) and molecular
+    components (invariant chain, CLIP, HLA-DM, MIIC).
+
+45. For each of the following genetic deficiencies, predict the effect on
+    antigen presentation. State which pathway (class I, class II, or both)
+    is affected and what the downstream immunological consequence would be.
+    a) TAP1 deficiency
+    b) Invariant chain (Ii) deficiency
+    c) HLA-DM deficiency
+    d) Beta-2-microglobulin (B2M) deficiency
+    e) Proteasome deficiency (loss of all catalytic subunits)
+
+46. Herpes simplex virus encodes a protein called ICP47.
+    a) What cellular protein does ICP47 target and inhibit?
+    b) Which antigen presentation pathway is disrupted?
+    c) How does this help HSV evade the immune system?
+    d) The immune system has a countermeasure to viruses that down-regulate
+       MHC class I. Describe this countermeasure and the cell type involved.
+
+47. MHC class II molecules traffic through the same ER as MHC class I
+    molecules, yet they do not bind the same peptides.
+    a) What prevents MHC class II from binding peptides in the ER?
+    b) Describe the step-by-step mechanism by which MHC class II is
+       eventually loaded with exogenous peptides. Name every protein
+       involved.
+    c) A cell line lacks HLA-DM. You stimulate it with a protein antigen
+       and test its ability to activate CD4 T cells. Predict the outcome
+       and explain.
+
+48. Cross-presentation allows CD8 T cell responses to pathogens that do
+    not directly infect dendritic cells.
+    a) Define cross-presentation.
+    b) Which dendritic cell subset specializes in cross-presentation?
+    c) Why is cross-presentation important for generating CD8 T cell
+       responses to tumors?
+
+
+=====================================
+SECTION 9: ANTIGEN RECEPTOR SIGNALING
+=====================================
+
+49. Describe how TCR engagement initiates intracellular signaling.
+    a) What co-receptor brings Lck to the TCR complex, and why is Lck
+       important?
+    b) What are ITAMs, where are they found, and what happens to them upon
+       TCR engagement?
+    c) How is ZAP-70 recruited and activated? What does ZAP-70 phosphorylate?
+
+50. Compare TCR and BCR signaling initiation.
+    a) What are the signaling subunits associated with the BCR (analogous
+       to CD3 in TCR signaling)?
+    b) What Src family kinase(s) phosphorylate BCR ITAMs, and what Syk
+       family kinase is recruited?
+    c) Name one key difference and one key similarity between the TCR and
+       BCR signaling cascades downstream of ITAM phosphorylation.
+
+51. Trace the signaling pathway from PLC-gamma activation to each of the
+    three transcription factors required for T cell activation.
+    a) What does PLC-gamma cleave, and what are the two products?
+    b) Product 1 → NFAT: describe each molecular step.
+    c) Product 2 → NF-kB: describe each molecular step (DAG → PKC-theta
+       → CARMA1/BCL10/MALT1 → IKK → IkB → NF-kB).
+    d) Product 2 → AP-1: describe the pathway (DAG → RasGRP → Ras →
+       Raf → Mek → Erk → AP-1).
+    e) Why must all three transcription factors be present simultaneously
+       to drive IL-2 gene expression?
+
+52. Cyclosporin A is administered to a patient following a kidney transplant.
+    a) What is the molecular target of cyclosporin A?
+    b) Which of the three TCR signaling branches (NFAT, NF-kB, or AP-1)
+       does it block?
+    c) What gene product is most critically suppressed as a result?
+    d) Why is blocking this gene product effective at preventing transplant
+       rejection?
+
+53. The B cell co-receptor complex (CD19/CD21/CD81) dramatically lowers
+    the activation threshold for B cells.
+    a) What ligand does CD21 bind?
+    b) How does co-ligation of the BCR and co-receptor complex amplify
+       BCR signaling? Name the specific enzyme most enhanced.
+    c) A patient has a loss-of-function mutation in CD19. Predict how this
+       would affect B cell responses to complement-opsonized antigens vs.
+       non-opsonized antigens.
+
+
+=====================================
+SECTION 10: INTEGRATION
+=====================================
+
+54. A newborn is found to have a complete absence of both B and T cells
+    but normal NK cell counts.
+    a) What is the clinical name for this condition?
+    b) Propose two distinct genetic mutations that could cause this
+       phenotype. For each, explain the developmental step that is blocked.
+    c) One candidate mutation is in RAG1 and another is in DNA-PK. How
+       would the NK cell counts help you distinguish between these two?
+       Explain your reasoning.
+
+55. You are designing a new vaccine against a novel intracellular pathogen.
+    You want to generate both strong CD4 and CD8 T cell responses.
+    a) What antigen presentation pathway must be engaged to prime CD8
+       T cells, and which dendritic cell subset is best suited for this?
+    b) What innate immune signals must be provided alongside the antigen
+       to ensure T cell activation? Name the specific surface molecules
+       on the DC that deliver these signals.
+    c) Your vaccine antigen is a secreted protein (not cytosolic). Describe
+       how CD8 T cell priming could still occur.
+
+56. A mouse lacking MHC class II is generated.
+    a) Would you expect normal numbers of CD4 T cells in the peripheral
+       blood? Explain, referencing thymic selection.
+    b) Would you expect normal numbers of CD8 T cells? Explain.
+    c) How would the antibody response to a protein antigen be affected?
+       Explain the cellular basis.
+    d) Draw the 2-parameter flow cytometry plot (CD4 vs. CD8) you would
+       expect from the lymph node of this mouse compared to a wild-type
+       mouse.
+
+57. You perform the following experiment: you immunize a wild-type mouse
+    with influenza virus and wait 2 weeks. You then mix the primed T cells
+    with each of the following stimuli and measure proliferation:
+    a) Influenza-infected macrophages from the same mouse strain
+    b) Influenza-infected macrophages from a different inbred strain
+    c) Uninfected macrophages from the same strain + purified influenza
+       hemagglutinin protein added to the culture
+    d) Influenza-infected macrophages from the same strain, pre-treated
+       with the proteasome inhibitor MG132
+    For each condition, predict whether CD4 T cells, CD8 T cells, both,
+    or neither would proliferate. Explain your reasoning.
+
+58. A researcher discovers a pathogen that has evolved the following
+    two immune evasion strategies simultaneously:
+    - It produces a protein that degrades IkB (making NF-kB constitutively
+      active in infected cells)
+    - It encodes a homolog of human DAF (decay-accelerating factor)
+    a) Predict the effect of the IkB-degrading protein on the infected
+       cell's inflammatory response.
+    b) Predict the effect of the DAF homolog on complement-mediated killing
+       of this pathogen.
+    c) Overall, which arm of the immune response (innate or adaptive) is
+       most undermined by these two strategies combined? Explain.

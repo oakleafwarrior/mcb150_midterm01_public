@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCB 150 Study</title>
+    <!-- Google Fonts: Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <main class="app-container">
+        <header>
+            <h1>MCB 150</h1>
+            <div class="mode-tabs">
+                <button class="tab-btn active" id="tab-flashcards">Flashcards</button>
+                <button class="tab-btn" id="tab-questions">Practice Questions</button>
+            </div>
+            <div class="progress-container">
+                <span id="progress-text">Loading...</span>
+                <div class="progress-bar-bg">
+                    <div class="progress-bar-fill" id="progress-bar"></div>
+                </div>
+            </div>
+        </header>
+
+        <section class="card-viewer">
+            <div class="section-filter-container" id="section-filter-container">
+                <label for="section-filter">Section</label>
+                <select id="section-filter"></select>
+            </div>
+
+            <div class="scene" id="scene">
+                <div class="card" id="flashcard">
+                    <div class="card-content">
+                        <h2 class="card-label" id="card-label">Term</h2>
+                        <p id="card-text" class="card-text">Loading...</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <button id="btn-prev" class="nav-btn" disabled>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                    </svg>
+                    Previous
+                </button>
+                <button id="btn-shuffle" class="icon-btn" title="Shuffle Cards">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M16 3H21V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M4 20L21 3" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M21 16V21H16" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M15 15L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                        <path d="M4 4L9 9" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                    </svg>
+                </button>
+                <button id="btn-next" class="nav-btn btn-primary" disabled>
+                    Next
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M9 18L15 12L9 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" />
+                    </svg>
+                </button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Main JS -->
+    <script src="script.js"></script>
+</body>
+
+</html>

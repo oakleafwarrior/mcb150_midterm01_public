@@ -1,0 +1,189 @@
+MCB 150 - PROBLEM SET QUESTIONS
+================================
+Spring 2026 | Prof. Saxton
+================================
+
+
+========================================
+PROBLEM SET 1 (Due: Jan. 29 at 5pm)
+========================================
+
+1. List three differences between the innate and adaptive immune systems in terms of
+   microbial recognition.
+
+2. Predict the outcome of Jenner's famous "experiment" if he had changed it in the
+   following ways. Provide a brief explanation of your answer.
+   A. He waited 2 days between the first injection of fluid from the cowpox pustule
+      and the second injection of fluid for the smallpox pustule.
+   B. The first injection consisted of SARS-CoV-2 instead of fluid from the cowpox
+      pustule.
+   C. He used purified proteins from cowpox virus for the first injection.
+
+3. What is the mechanism through which beta-Defensins exert anti-microbial activity?
+   How is this activity regulated?
+
+4. Describe three ways that the cleavage of C3 facilitates clearance of a bacterial
+   infection.
+
+5. Predict the relative severity of disorders associated with deficiency in the following
+   components of complement. Justify why one disorder may be more or less severe
+   than another.
+   A. C9
+   B. C5
+   C. Factor D
+
+6. Why might a patient with Factor H deficiency develop severe swelling?
+
+
+========================================
+PROBLEM SET 2 (Due: Feb. 5 at 5pm)
+========================================
+
+1. Predict which pattern recognition receptor(s) is (are) likely to be important for the
+   sensing of the following microbes.
+   a) E. coli (a gram-negative bacterium that replicates extracellularly)
+   b) Influenza (a single-stranded RNA virus)
+   c) Listeria (a gram-positive bacterium that escapes from phagosomes)
+   d) Herpes simplex virus 1 (a DNA virus)
+
+2. TRIF is an adaptor in TLR signaling that leads to IRF3 activation, yet mice lacking
+   IRF3 are more susceptible to many viral infections than mice lacking TRIF. Explain.
+
+[Note: Question 3 is not present in the template PDF.]
+
+4. One of the common measures that clinicians use to assess a patient who they
+   suspect may have an infection is levels of C Reactive Protein in their blood. Why?
+
+5. For each of the following cytokines, describe the pathway they use to induce
+   expression of genes in target cells. Include the type of receptor, key signaling
+   steps, and transcription factor(s) used.
+   a) IL-1beta
+   b) IL-6
+   c) TNF-alpha
+   d) IL-12
+
+6. You are performing experiments with dendritic cells isolated from TLR2+/-
+   (heterozygote) or TLR2-/- (knockout) mice. You analyze a few different parameters
+   after stimulating the cells with lipopeptides (a ligand for TLR2/1).
+   Draw the expected results for the following western blot for IkBa on lysates of
+   stimulated dendritic cells with the indicated genotype (TLR2+/- vs TLR2-/-).
+
+7. You are tasked with developing a monoclonal antibody drug for the treatment of
+   Sepsis (septic shock). Based on what you've learned so far in MCB 150, specify 2
+   potential target antigens for such an antibody, and describe how and why targeting
+   these proteins with an antibody might work to protect against sepsis.
+
+
+========================================
+PROBLEM SET 3 (Due: Feb. 12 at 5pm)
+========================================
+
+1. Draw schematics of an antibody and a TCR, labeling the chains, antigen binding
+   regions, Fc domain, and CDRs.
+
+2. Explain why a Fab fragment from an antibody specific for SARS-CoV-2 spike protein
+   may prevent infection of cells but doesn't promote phagocytosis of the virus.
+
+3. The cells in a lymph node are a mixture of T cells (~50% of total), B cells (~40%),
+   and dendritic cells and macrophages (~10%). B220 is a surface protein expressed
+   by all B cells. There are about twice as many CD4 T cells as CD8 T cells.
+   a) Based on these approximations, draw the 2-parameter flow cytometry plots of
+      lymph node cells stained with antibodies specific for the indicated proteins.
+      Include the percentage of cells in each quadrant.
+      Plots: B220 vs TCR | CD4 vs CD8 | CD4 vs TCR
+
+4. Imagine that you have purified populations of B and T cells specific for the
+   SARS-CoV-2 spike protein. You want to study how these cells respond to antigen.
+   When you culture the cells with virus (plus some dendritic cells) you see that both
+   the B and T cells get activated and proliferate. However, when you perform the same
+   experiment but first treat the virus with a cocktail of proteases, only the T cells get
+   activated and proliferate. How can you explain this difference? What does this tell
+   you about the spike-specific B cells that you isolated?
+
+5. a) Draw the 2-parameter flow cytometry plot of lymph node cells from a wild-type
+      mouse stained with antibodies specific for the indicated proteins. Include the
+      percentage of cells in each quadrant. (B220 is a surface protein expressed by B cells.)
+      Plots: B220 vs TCR | B220 vs MHC II
+
+   b) Assuming that successful generation of a BCR or TCR is required for B cells and
+      T cells to exit the bone marrow or thymus, respectively, draw the 2-parameter flow
+      cytometry plot of lymph node cells from a RAG1-deficient mouse stained with
+      antibodies specific for the indicated proteins. Include the percentage of cells in
+      each quadrant.
+      Plots: B220 vs TCR | B220 vs MHC II
+
+6. Predict the relative severity of immune dysfunction in humans with the following
+   mutations. Briefly explain your reasoning.
+   a) Inactivating mutations in RAG-2
+   b) Inactivating mutations in DNA-PK
+   c) Deletion of the 6 JH segments in the IgH locus
+
+
+========================================
+PROBLEM SET 4 (Due: Feb. 19 at 5pm)
+========================================
+
+1. Describe three important differences between class I and class II MHC proteins.
+
+2. Define the following terms:
+   a) inbred strain
+   b) congenic strain
+   c) haplotype
+   d) HLA
+
+3. You have two different inbred strains of mice, strain A and strain B. You mate a
+   strain A mouse to a strain B mouse, producing F1 progeny.
+   a) Will the F1 mice accept a skin graft from the strain A parent mouse? Why or
+      why not?
+   b) Will the strain B parent mouse accept a skin graft from an F1 mouse? Why or
+      why not?
+
+4. A mouse of inbred strain A is immunized with antigen X and T cells are purified a
+   week later. These T cells are mixed in vitro with antigen and macrophages from the
+   indicated strains of mice. Would you predict that the T cells would proliferate in
+   each case? Why? (Assume inbred strains A and B have different MHC haplotypes.)
+
+   T cells   | Antigen | Macrophage                  | Proliferation?
+   --------- | ------- | --------------------------- | ---------------
+   a) Strain A | yes   | Strain A                    | ++++
+   b) Strain A | yes   | none                        | ?
+   c) Strain A | no    | Strain A                    | ?
+   d) Strain A | yes   | Strain B                    | ?
+   e) Strain A | yes   | F1 hybrid of Strain A x B   | ?
+
+   f) When T cells from an immunized Strain A mouse are mixed with antigen and
+      macrophages from a Strain C mouse, the T cells proliferate as well as when
+      stimulated with macrophages from a Strain A mouse. Explain.
+
+   g) T cells from an unimmunized Strain A mouse proliferate when mixed with
+      macrophages from a Strain B mouse (not as much proliferation as in (a), but
+      significant proliferation: "+" vs "++++"). Explain.
+
+5. What is meant by the statement that MHC alleles are "co-dominantly" expressed?
+
+6. The following set of peptides are eluted from a purified MHC molecule:
+      VFTSKAINK
+      SFTIRTALK
+      QFTYFIVAK
+      RFTQKAIAK
+      RFTQFIVNK
+      EFTGKYFKK
+   a) Which class of MHC molecule are the peptides from?
+   b) Circle the anchor residues in each peptide.
+
+7. MHC Class II molecules will traffic through the same ER that MHC Class I molecules
+   are in, yet they do not normally bind the same peptides as MHC Class I.
+   a) What mechanism prevents MHC Class II from binding peptides in the ER?
+   b) How is this mechanism overcome such that MHC Class II is eventually loaded
+      with peptides?
+
+8. Draw flow cytometry plots of what you would expect from the following scenarios.
+   The cells in a lymph node are a mixture of T cells (~50% of total), B cells (~40%),
+   and dendritic cells and macrophages (~10%). There are about twice as many CD4
+   T cells as CD8 T cells.
+   a) Two parameter flow cytometry plot of lymph node cells from a wildtype mouse
+      stained with antibodies specific for H2-A and TCR.
+   b) Two parameter flow cytometry plot of lymph node cells from a wildtype mouse
+      stained with antibodies specific for H2-K and TCR.
+   c) Two parameter flow cytometry plot of lymph node cells from a beta-2M deficient
+      mouse stained with antibodies specific for H2-K and TCR.
