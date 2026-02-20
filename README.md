@@ -30,13 +30,12 @@ A browser-based app with two modes: **Flashcards** and **Practice Questions**.To
 
 ### Run
 
-Open terminal in the your working directoy:
+Open terminal in the project root directory:
 ```bash
-cd flashcards
 python3 -m http.server 8080
 ```
 
-Leave that terminal open and go to http://localhost:8080 in your browser.
+Leave that terminal open and go to http://localhost:8080/flashcards/ in your browser.
 
 ### Flashcards mode
 
@@ -56,6 +55,7 @@ Displays 58 exam-style practice problems from
 - Each card shows the section name and the full question text, including all
   sub-parts, exactly as formatted.
 - Cards do not flip (there is no answer to reveal).
+- Click the shuffle icon to randomize the question order.
 - Use Previous / Next or left/right arrow keys to navigate.
 
 ---

@@ -137,7 +137,7 @@ function updateUI() {
         cardElement.classList.add('question-mode');
         sceneElement.classList.add('question-mode');
         sectionFilterContainer.style.display = 'flex';
-        btnShuffle.style.display = 'none';
+        btnShuffle.style.display = '';
     }
 
     const progress = ((currentIndex + 1) / items.length) * 100;
@@ -209,6 +209,10 @@ btnNext.addEventListener('click', () => {
 btnShuffle.addEventListener('click', () => {
     if (mode === 'flashcards' && flashcards.length > 0) {
         shuffleArray(flashcards);
+        currentIndex = 0;
+        updateUI();
+    } else if (mode === 'questions' && filteredQuestions.length > 0) {
+        shuffleArray(filteredQuestions);
         currentIndex = 0;
         updateUI();
     }
