@@ -55,14 +55,14 @@ def main():
         random.shuffle(flashcards)
         print("Cards shuffled.")
         
-    print("\nPress Enter to flip the card, or type 'q' to quit.")
+    print("\nPress Return to flip the card, or type 'q' to quit.")
     print("-" * 50)
     
     for idx, card in enumerate(flashcards):
         print(f"\nCard {idx + 1} of {len(flashcards)}")
         print(f"Q: {card['q']}")
         
-        user_input = input("\n[Press Enter to flip, 'q' to quit] ")
+        user_input = input("\n[Press Return to flip, 'q' to quit] ")
         if user_input.lower() == 'q':
             print("Exiting flashcards. Great job studying!")
             break
@@ -70,7 +70,7 @@ def main():
         print(f"\n----------\nA: {card['a']}\n----------")
         
         if idx < len(flashcards) - 1:
-            user_input = input("\n[Press Enter for next card, 'q' to quit] ")
+            user_input = input("\n[Press Return for next card, 'q' to quit] ")
             if user_input.lower() == 'q':
                 print("Exiting flashcards. Great job studying!")
                 break
